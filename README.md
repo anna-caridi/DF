@@ -1,4 +1,4 @@
-# CAPSTONE PROJECT ON BITCOIN PREDICTIONS
+# A PRELIMINARY ATTEMPT AT PREDICTING FUTURE BITCOIN TRENDS
 
 ### WHY CHOOSING THIS PROJECT? The world of cryptocurrencies such as Bitcoin is becoming more and more popular and I thought it would be interesting to work with the challenge of the unpredictable nature of crypto.
 
